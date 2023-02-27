@@ -1,5 +1,7 @@
 # Data-Analysis-with-Python
-In this series of notebooks, we will dive into each step of the data analysis process of a data set. This dataset consists of three types of entities: (a) the 
+In this series of notebooks, we will dive into each step of the data analysis process of a data set. 
+
+This dataset consists of three types of entities: (a) the 
 specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. 
 The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with 
 its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process "symboling". A value of +3 
